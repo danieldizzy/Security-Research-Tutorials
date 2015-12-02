@@ -12,8 +12,8 @@ Introduction to cross-site scripting
 
 ### CSRF
 
-*Finding and Preventing CSRF 
-*How to exploit CSRF Vulnerabilities 
+Finding and Preventing CSRF 
+How to exploit CSRF Vulnerabilities 
 
 ### SQL Injection
 
