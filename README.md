@@ -6,42 +6,42 @@ Credit to BugCroud, most resources were from thier blog posts. Please let me kno
 
 ### XSS
 
-A comprehensive tutorial on cross-site scripting - link226
-Favorite XSS Filters/IDS and how to attack them - pdf link119
-Introduction to cross-site scripting - link77
+A comprehensive tutorial on cross-site scripting 
+Favorite XSS Filters/IDS and how to attack them 
+Introduction to cross-site scripting 
 
 ### CSRF
 
-Finding and Preventing CSRF - pdf link77
-How to exploit CSRF Vulnerabilities - link70
+Finding and Preventing CSRF 
+How to exploit CSRF Vulnerabilities 
 
 ### SQL Injection
 
-Introduction to SQL Injection - link65
-Introduction to MySQL Injection - link31
-Full MSSQL Injection PWNage - link39
-Everything you wanted to know about SQL injection - link40
+Introduction to SQL Injection 
+Introduction to MySQL Injection 
+Full MSSQL Injection PWNage 
+Everything you wanted to know about SQL injection 
+
 ### Remote Code/Command Execution
 
-How to find RCE in scripts (with examples)- link104
+How to find RCE in scripts (with examples)
 Yahoo LFI Converted to RCE - link40
-Remote Code Execution in Elasticsearch - CVE-2015-1427 - link36
+Remote Code Execution in Elasticsearch - CVE-2015-1427 
+
 ### XXE
 
-Generic XXE Detection - link73
-XML Out-Of-Band Data Retrieval - pdf link23
-SSRF vs. Business-critical applications: XXE tunneling in SAP - pdf
-link21
-What you didn’t know about XXE - pdf link29
+Generic XXE Detection
+XML Out-Of-Band Data Retrieval 
+SSRF vs. Business-critical applications: XXE tunneling in SAP  
+What you didn’t know about XXE 
 
 ### Other:
 
-SSRF Attacks - slideshare link42
-Cross Site Port Attacks - link33
-Hunting for Top Bounties - YouTube link58
-How to steal and modify data using Business Logic flaws - slideshare
-link31
-Exploiting CVE-2011-2461 on google.com - link28
+SSRF Attacks 
+Cross Site Port Attacks 
+Hunting for Top Bounties
+How to steal and modify data using Business Logic flaws 
+Exploiting CVE-2011-2461 on google.com 
 PentesterLab - link23 - PentesterLab provides vulnerable systems that can be used to test and understand vulnerabilities. (thanks @n0x00)
 InjectX to find XSS - link - thanks @1N3
 
@@ -49,10 +49,10 @@ InjectX to find XSS - link - thanks @1N3
 
 #### Android
 
-Debugging Java Applications Using JDB - link30
-Hacking Android Apps Using Backup Techniques - link24
+Debugging Java Applications Using JDB
+Hacking Android Apps Using Backup Techniques 
 
 ### iOS
 
-Setting Up a Mobile Pentesting Platform - link25
-iOS Application Security - link20
+Setting Up a Mobile Pentesting Platform 
+iOS Application Security 
