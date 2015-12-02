@@ -1,6 +1,6 @@
 # Security-Research-Tutorials
-Personal collection of tutorial resources
-This is a list of tutorial resources that can be helpful to security researchers that want to learn more about web and mobile application hacking. Please let us know if you have any suggestions for resources that we should add to this post!
+Personal collection of tutorial resources that can be helpful in my quest to security research and web application hacking. 
+Credit to BugCroud, most resources were from thier blog posts. Please let me know if you have any suggestions for resources that i should add to this list. 
 
 ##Web applications:
 
