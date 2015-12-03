@@ -24,35 +24,35 @@ Credit to BugCroud, most resources were from thier blog posts. Please let me kno
 
 ### Remote Code/Command Execution
 
-How to find RCE in scripts (with examples)
-Yahoo LFI Converted to RCE - link40
-Remote Code Execution in Elasticsearch - CVE-2015-1427 
+* How to find RCE in scripts (with examples)
+* Yahoo LFI Converted to RCE - link40
+* Remote Code Execution in Elasticsearch - CVE-2015-1427 
 
 ### XXE
 
-Generic XXE Detection
-XML Out-Of-Band Data Retrieval 
-SSRF vs. Business-critical applications: XXE tunneling in SAP  
-What you didn’t know about XXE 
+* Generic XXE Detection
+* XML Out-Of-Band Data Retrieval 
+* SSRF vs. Business-critical applications: XXE tunneling in SAP  
+* What you didn’t know about XXE 
 
 ### Other:
 
-SSRF Attacks 
-Cross Site Port Attacks 
-Hunting for Top Bounties
-How to steal and modify data using Business Logic flaws 
-Exploiting CVE-2011-2461 on google.com 
-PentesterLab - link23 - PentesterLab provides vulnerable systems that can be used to test and understand vulnerabilities. (thanks @n0x00)
-InjectX to find XSS - link - thanks @1N3
+* SSRF Attacks 
+* Cross Site Port Attacks 
+* Hunting for Top Bounties
+* How to steal and modify data using Business Logic flaws 
+* Exploiting CVE-2011-2461 on google.com 
+* PentesterLab - link23 - PentesterLab provides vulnerable systems that can be used to test and understand vulnerabilities. (thanks @n0x00)
+* InjectX to find XSS - link - thanks @1N3
 
 ### Mobile Applications:
 
 #### Android
 
-Debugging Java Applications Using JDB
-Hacking Android Apps Using Backup Techniques 
+* Debugging Java Applications Using JDB
+* Hacking Android Apps Using Backup Techniques 
 
 ### iOS
 
-Setting Up a Mobile Pentesting Platform 
-iOS Application Security 
+* Setting Up a Mobile Pentesting Platform 
+* iOS Application Security 
