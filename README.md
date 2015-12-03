@@ -8,7 +8,7 @@ Credit to BugCroud, most resources were from thier blog posts. Please let me kno
 <a name="xss-webapplication">
 ### XSS
 
-*[A comprehensive tutorial on cross-site scripting](https://pentesterlab.com/exercises/)
+* [A comprehensive tutorial on cross-site scripting](https://pentesterlab.com/exercises/)
 * [Favorite XSS Filters/IDS and how to attack them] 
 * [Introduction to cross-site scripting] 
 
