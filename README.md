@@ -6,21 +6,21 @@ Credit to BugCroud, most resources were from thier blog posts. Please let me kno
 
 ### XSS
 
-*A comprehensive tutorial on cross-site scripting 
-*Favorite XSS Filters/IDS and how to attack them 
-*Introduction to cross-site scripting 
+* A comprehensive tutorial on cross-site scripting 
+* Favorite XSS Filters/IDS and how to attack them 
+* Introduction to cross-site scripting 
 
 ### CSRF
 
-*Finding and Preventing CSRF 
-*How to exploit CSRF Vulnerabilities 
+* Finding and Preventing CSRF 
+* How to exploit CSRF Vulnerabilities 
 
 ### SQL Injection
 
-*Introduction to SQL Injection 
-*Introduction to MySQL Injection 
-*Full MSSQL Injection PWNage 
-*Everything you wanted to know about SQL injection 
+* Introduction to SQL Injection 
+* Introduction to MySQL Injection 
+* Full MSSQL Injection PWNage 
+* Everything you wanted to know about SQL injection 
 
 ### Remote Code/Command Execution
 
