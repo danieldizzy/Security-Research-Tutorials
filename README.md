@@ -73,18 +73,18 @@ Credit to BugCroud, most resources were from thier blog posts. Please let me kno
 
 <a name="tools-webapplications"/>
 ###Tools 
-*[Burp Suite](https://portswigger.net/burp/) An integrated platform for performing security testing of web applications
-*[SQL Map](http://sqlmap.org/) An open source penetration tool that automates the process of detecting and exploiting SQL injection flaws and taing over of database servers [Tutorial] (http://www.binarytides.com/sqlmap-hacking-tutorial/)
-*[SQL Ninja] (http://sqlninja.sourceforge.net/) Sqlninja is a tool targeted to exploit SQL Injection vulnerabilities on a web application that uses Microsoft SQL Server as its back-end [How To] (http://www.jedge.com/wordpress/sqlninja-sql-injection/)
-*[Hack Bar](https://addons.mozilla.org/en-us/firefox/addon/hackbar/)This Firefox toolbar will help you in testing sql injections, XSS holes and site security.
-*[Knock](https://github.com/guelfoweb/knock ) Enumerates subdomains on a target domain through a wordlist [How To] (http://www.securitytube.net/video/6549)
-[The ZED Attack Proxy ZAP] (https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) 
-[Ratproxy by Google ] (https://code.google.com/p/ratproxy/) [How To](http://www.daveperrett.com/articles/2010/09/24/security-testing-with-googles-ratproxy/)
-[OWASP SKANDA Exploitation Framework] (http://www.chmag.in/owasp-skanda-ssrf-exploitation-framework/)
-[man ascii] (unixhelp.ed.ac.uk/CGI/man-cgi?ascii+7) On most unices gives you the ASCII table with decimal, octal and hex codes for each character
-[DNS Discovery](https://github.com/m0nad/DNS-Discovery) A multithreaded subdomain bruteforcer.
-[Iron WASP](https://ironwasp.org/) free & open source security scanner
-[WebSlayer](www.edge-security.com/webslayer.php) One of the best free tools available"
+* [Burp Suite](https://portswigger.net/burp/) An integrated platform for performing security testing of web applications
+* [SQL Map](http://sqlmap.org/) An open source penetration tool that automates the process of detecting and exploiting SQL injection flaws and taing over of database servers [Tutorial] (http://www.binarytides.com/sqlmap-hacking-tutorial/)
+* [SQL Ninja] (http://sqlninja.sourceforge.net/) Sqlninja is a tool targeted to exploit SQL Injection vulnerabilities on a web application that uses Microsoft SQL Server as its back-end [How To] (http://www.jedge.com/wordpress/sqlninja-sql-injection/)
+* [Hack Bar](https://addons.mozilla.org/en-us/firefox/addon/hackbar/)This Firefox toolbar will help you in testing sql injections, XSS holes and site security.
+* [Knock](https://github.com/guelfoweb/knock ) Enumerates subdomains on a target domain through a wordlist [How To] (http://www.securitytube.net/video/6549)
+* [The ZED Attack Proxy ZAP] (https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) 
+* [Ratproxy by Google ] (https://code.google.com/p/ratproxy/) [How To](http://www.daveperrett.com/articles/2010/09/24/security-testing-with-googles-ratproxy/)
+* [OWASP SKANDA Exploitation Framework] (http://www.chmag.in/owasp-skanda-ssrf-exploitation-framework/)
+* [man ascii] (unixhelp.ed.ac.uk/CGI/man-cgi?ascii+7) On most unices gives you the ASCII table with decimal, octal and hex codes for each character
+* [DNS Discovery](https://github.com/m0nad/DNS-Discovery) A multithreaded subdomain bruteforcer.
+* [Iron WASP](https://ironwasp.org/) free & open source security scanner
+* [WebSlayer](www.edge-security.com/webslayer.php) One of the best free tools available"
 
 
 <a name="youtube-webapplications"/>
